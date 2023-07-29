@@ -13,7 +13,7 @@
 
 
 
-### About Me 
+### 👩‍💻 About Me 
 I am CSE(AI&ML) Undergrad at [Vasireddy Venkatadri Institute of Technology](https://vvitguntur.com/)
 I am always eager to learn, adapt and evolve constantly. With consistent hustle, the aim is to enhance my skills for future opportunities and excel in my career.
 
