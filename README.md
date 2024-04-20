@@ -17,7 +17,7 @@ via a Loadbalancer**
 ### 👩‍💻 About Me 
 Former Summer Intern @ IIT KGP, Alpha MLSA, Cloud & DevOps, Web Dev.
 I am CSE(AI&ML) Undergrad at [Vasireddy Venkatadri Institute of Technology](https://vvitguntur.com/)
-I am always eager to learn, adapt and evolve constantly. With consistent hustle, the aim is to enhance my skills for future opportunities and excel in my career.
+I am always eager to learn, adapt and evolve constantly.
 
 ### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaddella-mohan) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mohanvaddella) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22304110) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@mohanvaddella) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Mohan9704) 
