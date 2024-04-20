@@ -4,7 +4,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently working on **Video Metadata Generation and Classification**
+- 🔭 I’m currently working on **Deploying a wordpress Application on AWS using LAMP stack and access it
+via a Loadbalancer**
 - 🌱 I’m currently learning **Cloud & Devops**
 - 👯 I’m looking to collaborate on **Web Dev Projects**
 - 📫 How to reach me  **mohanvaddella@gmail.com**
@@ -14,6 +15,7 @@
 
 
 ### 👩‍💻 About Me 
+Former Summer Intern @ IIT KGP, Alpha MLSA, Cloud & DevOps, Web Dev.
 I am CSE(AI&ML) Undergrad at [Vasireddy Venkatadri Institute of Technology](https://vvitguntur.com/)
 I am always eager to learn, adapt and evolve constantly. With consistent hustle, the aim is to enhance my skills for future opportunities and excel in my career.
 
