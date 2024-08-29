@@ -14,7 +14,7 @@
 
 
 ### 👩‍💻 About Me 
-Former Summer Intern @ IIT KGP, Alpha MLSA, Cloud & DevOps, Web Dev.
+Former Summer Intern @ IIT KGP, Beta MLSA, Cloud & DevOps, Web Dev.
 I am CSE(AI&ML) Undergrad at [Vasireddy Venkatadri Institute of Technology](https://vvitguntur.com/)
 I am always eager to learn, adapt and evolve constantly.
 
