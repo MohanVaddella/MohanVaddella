@@ -14,7 +14,7 @@
 
 
 ### 👩‍💻 About Me 
-Associate Software Engineer @ [Alcon](https://www.alcon.com/), Ex - CloudHub, IIT KGP, Beta MLSA, Cloud & DevOps, Web Dev.
+Associate Software Engineer @ [Alcon](https://www.alcon.com/), Ex - CloudHub, IIT Kharagpur, Beta MLSA, Cloud & DevOps, Web Dev.
 I am CSE(AI&ML) Undergrad at [Vasireddy Venkatadri Institute of Technology](https://vvitguntur.com/)
 I am always eager to learn, adapt and evolve constantly.
 
