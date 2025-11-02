@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently **seeking full-time opportunities to launch my career**
+- 🔭 I’m currently working as **Associate Software Engineer at Alcon Global Services, Bangalore**
 - 🌱 I’m currently learning **Cloud & Devops**
 - 👯 I’m looking to collaborate on **Web Dev Projects**
 - 📫 How to reach me  **mohanvaddella@gmail.com**
